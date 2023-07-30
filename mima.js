@@ -6,7 +6,7 @@ window.opener=null;
 window.open('','_self');
 window.close();
 }
-if (password !='1')
+if (password !='这是免费资源')
 {
 custom_close();
 alert('密码错误');
